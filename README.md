@@ -2,7 +2,7 @@ I am a beginner developer in HTML, CSS, JavaScript. I am learning to design scri
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/deryys/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=deryys&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1247913181993500766)](https://discord.com/users/1247913181993500766)
 
